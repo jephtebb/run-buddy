@@ -11,4 +11,3 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jephte Borno]
-### ©️2019 Run Buddy, Inc
